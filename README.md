@@ -6,7 +6,7 @@
 
 ## リンク
 
-https://open-nescafe.ogtm.workers.dev/
+https://gh.ogtm.dev/open-nescafe/
 
 ## 注意事項
 
